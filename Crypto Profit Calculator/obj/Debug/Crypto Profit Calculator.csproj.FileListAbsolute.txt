@@ -1,0 +1,13 @@
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\bin\Debug\Crypto Profit Calculator.exe.config
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\bin\Debug\Crypto Profit Calculator.exe
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\bin\Debug\Crypto Profit Calculator.pdb
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto Profit Calculator.csprojAssemblyReference.cache
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto_Profit_Calculator.Form1.resources
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto_Profit_Calculator.Properties.Resources.resources
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto Profit Calculator.csproj.GenerateResource.cache
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto Profit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto Profit Calculator.exe
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto Profit Calculator.pdb
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ugur1\source\repos\Crypto Profit Calculator\Crypto Profit Calculator\obj\Debug\Crypto Profit Calculator.csproj.CopyComplete
