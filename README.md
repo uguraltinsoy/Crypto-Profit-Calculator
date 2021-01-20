@@ -1,6 +1,6 @@
 # Crypto Profit Calculator
 
-## Usage
+## Useage
 
 ![Alt text](Crypto_Profit_Calculator.png?raw=true)
 
