@@ -1,8 +1,7 @@
 # Crypto Profit Calculator
 
-## Useage
-
-![Alt text](Crypto_Profit_Calculator.png?raw=true)
+## Usage
+![Alt text](Pictures/Crypto_Profit_Calculator.png?raw=true)
 
 ### Developer By
 - Uğur Altınsoy
