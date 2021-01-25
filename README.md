@@ -3,6 +3,16 @@
 ## Usage
 ![Alt text](Pictures/Crypto_Profit_Calculator.png?raw=true)
 
+## Setup
+### Part 1
+![Alt text](Pictures/setup_1.png?raw=true)
+### Part 2
+![Alt text](Pictures/setup_2.png?raw=true)
+### Part 3
+![Alt text](Pictures/setup_3.png?raw=true)
+### Part 4
+![Alt text](Pictures/setup_4.png?raw=true)
+
 ### Developer By
 - Uğur Altınsoy
 
