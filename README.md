@@ -4,6 +4,8 @@
 ![Alt text](Pictures/Crypto_Profit_Calculator.png?raw=true)
 
 ## Setup
+Open Setup Folder ->
+install setup exe or msi
 ### Part 1
 ![Alt text](Pictures/setup_1.png?raw=true)
 ### Part 2
