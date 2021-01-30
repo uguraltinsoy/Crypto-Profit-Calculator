@@ -18,6 +18,12 @@ install setup exe or msi
 ### Developer By
 - Uğur Altınsoy
 
+### Donate
+```
+BTC : 1N7V3wX4xvGfwgBP1zQrcMSxohKKfiDxyH
+ETH : 0x0df6da87e219fb4854e933f1071ad91d17afa517
+```
+
 ### Social
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uguraltnsy)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ugur.altnsy)
